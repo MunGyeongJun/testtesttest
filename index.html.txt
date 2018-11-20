@@ -1,6 +1,6 @@
 <html>
 <head>
-</head>/**/
+</head>주석 추가
 <body>
 </body>
 </html>
