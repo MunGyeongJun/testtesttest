@@ -13,7 +13,7 @@
 <li>저장소</li>
 <li>버전</li>
 <li>push</li>
-
+<li>push2</li>
 <ul></ul>
 <li>Git이란?</li>
 <li>버젼</li>
