@@ -30,3 +30,8 @@ push.egoing
 pull.ionizer
 
 push.ionizer 2
+
+
+body{
+	color:red;
+}
