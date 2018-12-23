@@ -1,37 +1,5 @@
 <html>
-<head>
-<title>GIT 수업</title>
-<title>GIT 소개</title>
-</head>
-<head></head>
 <body>
-<header>
-sync.egoing
-<h1>MASTER</h1>
-<h1>Git</h1>
-</header>
-<ul>
-<li>저장소</li>
-<li>버전</li>
-<li>push</li>
-<li>push2</li>
-<ul></ul>
-<li>Git이란?</li>
-<li>버젼</li>
-<li>push.egoing</li>
-</ul>
+hello world
 </body>
 </html>
-
-ggg
-
-push.egoing
-
-pull.ionizer
-
-push.ionizer 2
-
-
-body{
-	color:red;
-}
